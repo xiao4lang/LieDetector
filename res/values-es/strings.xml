@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Detector de Mentiras broma</string>
+    <string name="mainactivity_name">Detector de Mentiras</string>
+    <string name="truth">VERDAD</string>
+    <string name="lie">MENTIRA</string>
+    <string name="scanning">Grabación</string>
+    <string name="aborted">Abortado</string>
+    <string name="analyzing">analizando</string>
+    <string name="help">Ayuda</string>
+    <string name="rating">Clasificación</string>
+    <string name="share">Compartir</string>
+    <string name="share_app">Acciones de aplicaciones</string>
+    <string name="share_text">¿Quieres verificar si tus amigos están mintiendo? ¿Quieres un Detector de Mentiras preciso?\nDescargar:</string>
+    <string name="help_text">Como jugar:\n1. Elige una persona que se someta a la prueba del Detector de Mentiras.\n2. Pulsa el botón y escanea su huella digital. Al mismo tiempo, haz que la persona diga lo que tiene para decir.\n3. La APLICACIÓN detectará si es verdad o mentira.\n★★El truco más importante★★\nPuedes indicarle a la APLICACIÓN que responda que es verdad o que es mentira.\nCuando pulses el botón, puedes juzgar sus palabras por ti mismo y hacer clic en “aumentar volumen” (para Verdadero) o en “reducir volumen” (para Mentira).\n¡Disfrútalo con tus amigos y familiares!</string>
+
+</resources>

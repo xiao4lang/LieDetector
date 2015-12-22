@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lie Detector Prank</string>
+    <string name="mainactivity_name">Lie Detector</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8752588159869195/1751547068</string>
+    <string name="ad_id">ca-app-pub-8752588159869195/3228280262</string>
+    <string name="truth">TRUTH</string>
+    <string name="lie">LIE</string>
+    <string name="scanning">Recording</string>
+    <string name="aborted">Aborted</string>
+    <string name="analyzing">Analyzing</string>
+    <string name="help">Help</string>
+    <string name="rating">Rating</string>
+    <string name="share">Share</string>
+    <string name="share_app">Share app</string>
+    <string name="share_text">Do you want to test whether your friends tell a lie? Do you want a accurate Lie Detector?\nDownload:</string>
+    <string name="help_text">How to play:\n1. Choose one person to take this lie detector test.\n2. Press the button and scan the fingerprint. At the same time, let him/her say what he/her want to say.\n3. The APP will detect whether he/her tell a lie or truth.\n★★The most important trick★★\nYou can tell this APP to respond with truth or lie.\nWhen the tester press the button, you can judge his/her words by yourself and click Volume UP (for truth) or Volume Down (for Lie).\nEnjoy it with your friends and family!</string>
+
+</resources>

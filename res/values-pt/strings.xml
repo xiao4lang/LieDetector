@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Detector de Mentiras pegadinha</string>
+    <string name="mainactivity_name">Detector de Mentiras</string>
+    <string name="truth">VERDADE</string>
+    <string name="lie">MENTIRA</string>
+    <string name="scanning">Gravação</string>
+    <string name="aborted">Abortado</string>
+    <string name="analyzing">analisando</string>
+    <string name="help">Socorro</string>
+    <string name="rating">Classificação</string>
+    <string name="share">Compartilhado</string>
+    <string name="share_app">app Partilhar</string>
+    <string name="share_text">Quer testar se os seus amigos estão contando uma mentira? Quer um Detector de Mentiras preciso?\nBaixar agora:</string>
+    <string name="help_text">Instruções:\n1. Escolha uma pessoa para realizar este teste de detecção de mentiras.\n2. Pressione o botão e escaneie a impressão digital. Ao mesmo tempo, permita que a pessoa sendo testada diga o que ela quiser.\n3. O app detectará se ela estiver contando uma mentira ou falando a verdade.\n★★O truque mais importante★★\nVocê pode mandar o aplicativo responder com verdade ou mentira.\nQuando a pessoa pressionar o botão, você mesmo pode decidir se o que falam é verdade ou mentira, clicando no botão de Aumentar Volume (verdade) ou Reduzir Volume (mentira) do seu telefone.\nDivirta-se com seus amigos e sua família!</string>
+
+</resources>
