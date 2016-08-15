@@ -20,5 +20,6 @@ public class MyApp extends Application {
 		tracker.enableAdvertisingIdCollection(true);
 		tracker.enableAutoActivityTracking(true);
 	}
+	// test
 
 }
